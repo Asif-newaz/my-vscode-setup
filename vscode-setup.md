@@ -30,6 +30,8 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Bracket Pair Colorizer` A customizable extension for colorizing matching brackets. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
+`Better Align` Align code without selecting them first. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+
 ### Other extensions I use (will keep it updated) 
 
 `Project Manager` to easily switch between projects. One of the most useful extensions. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
