@@ -32,6 +32,8 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Better Align` Align code without selecting them first. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
+`JavaScript (ES6) code snippets` This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript). [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
 ### Other extensions I use (will keep it updated) 
 
 `Project Manager` to easily switch between projects. One of the most useful extensions. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
