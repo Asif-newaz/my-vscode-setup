@@ -32,6 +32,12 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Better Align` Align code without selecting them first. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
+`GitLens` GitLens simply helps you better understand code. Quickly glimpse into whom, why, and when a line or code block was changed. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+`Babel JavaScript` JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+
+`vscode-styled-components` Syntax highlighting for styled-components. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
 `JavaScript (ES6) code snippets` This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript). [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 ### Other extensions I use (will keep it updated) 
