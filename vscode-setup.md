@@ -40,13 +40,17 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `JavaScript (ES6) code snippets` This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript). [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
+`ESLint` Using this, it is very easy to find out the error of the code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+`ES7 React/Redux/GraphQL/React-Native snippets` Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax. It works just like Emmet. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 ### Other extensions I use (will keep it updated) 
 
 `Project Manager` to easily switch between projects. One of the most useful extensions. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 ### Settings
 
-If you want your editor to work and look exactly the same way as mine does in the course videos, you can copy these settings to your own settings file. Just go to settings in VSCode, and on the right side, you can paste this code.
+If you want your editor to work and look exactly the same way as mine, you can copy these settings to your own settings file. Just go to settings in VSCode, and on the right side, you can paste this code.
 
 ```
 {
