@@ -42,7 +42,7 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `ESLint` Using this, it is very easy to find out the error of the code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-`ES7 React/Redux/GraphQL/React-Native snippets` Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax. It works just like Emmet. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+`ES7 React/Redux/GraphQL/React-Native snippets` Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax. It works just like Emmet. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ### Other extensions I use (will keep it updated) 
 
