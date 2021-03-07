@@ -44,6 +44,9 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `ES7 React/Redux/GraphQL/React-Native snippets` Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax. It works just like Emmet. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
+### To add font ligatures <img src="https://raw.githubusercontent.com/tonsky/FiraCode/b029b9a2ef915579f4f1b2398eaa65a2050b88ec/extras/logo.svg" width="350" height="200" title="hover text">
+Read this stack overflow answer [Link &rarr;](https://stackoverflow.com/questions/56209769/how-do-i-setup-font-ligatures-for-visual-studio-code)
+
 ### Other extensions I use (will keep it updated) 
 
 `Project Manager` to easily switch between projects. One of the most useful extensions. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
