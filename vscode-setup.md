@@ -26,8 +26,6 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-`Indenticator` Highlights your current indent depth [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
-
 `Icon Fonts` Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more! [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 `Bracket Pair Colorizer` A customizable extension for colorizing matching brackets. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
